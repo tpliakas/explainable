@@ -1,0 +1,32 @@
+# Source files
+src/
+examples/
+*.test.ts
+__tests__/
+
+# Config files
+tsconfig.json
+tsup.config.ts
+vitest.config.ts
+.gitignore
+
+# Development
+.vscode/
+.idea/
+coverage/
+*.log
+
+# CI/CD
+.github/
+
+# Documentation (except README, CHANGELOG, and DIAGRAMS)
+docs/
+*.md
+!README.md
+!CHANGELOG.md
+!DIAGRAMS.md
+
+# Include svg-images folder for documentation
+!svg-images/
+!svg-images/*.svg
+
