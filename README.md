@@ -368,14 +368,6 @@ console.log(config.explainText('PORT'))
 // 2. ✗ env → "not-a-number" (PORT env var - parse error: Cannot parse "not-a-number" as number)
 ```
 
-## Why This Will Get Stars ⭐
-
-1. **Solves a real pain point** - Debugging config is frustrating
-2. **Novel approach** - First to do config explanation well
-3. **Elegant API** - Fluent, type-safe, obvious
-4. **Zero dependencies** - No bloat, just pure TypeScript
-5. **Great DX** - Excellent TypeScript support and error messages
-
 ## Ecosystem Vision
 
 `explainable` is designed to grow into an ecosystem:
@@ -386,7 +378,6 @@ console.log(config.explainText('PORT'))
 - `@explainable/vite` - Vite plugin for build-time explanations
 
 **Phase 3:**
-- `@explainable/tsconfig` - Explain TypeScript configuration
 - `@explainable/eslint` - Explain ESLint rule resolution
 - `@explainable/webpack` - Explain Webpack config merging
 
