@@ -475,7 +475,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
 
 MIT © [T. Pliakas](https://github.com/tpliakas)
 
-## Star History
+## Star
 
 If this solves your config debugging pain, give it a star! ⭐
 
